@@ -259,3 +259,9 @@ simulation starts ticking every 2.5 seconds.
   connected.
 
 Enjoy exploring Elmart! 🎉
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/2bd83316-9bc9-40e2-a719-2102df41028e" />
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/e028ffa2-3c50-4eae-a6c7-a7cacf89a102" />
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/cebfb7f4-de5f-441d-bfee-093784d231b7" />
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/59a981fa-1c15-471f-9b45-71c5dc412825" />
+<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/15509b8f-12fe-41e4-bb3f-b7c1e0c0f217" />
+<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/2abb0995-08ee-4399-8bb8-b7ff33313315" />
