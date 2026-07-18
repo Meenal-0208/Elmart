@@ -265,3 +265,4 @@ Enjoy exploring Elmart! 🎉
 <img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/59a981fa-1c15-471f-9b45-71c5dc412825" />
 <img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/15509b8f-12fe-41e4-bb3f-b7c1e0c0f217" />
 <img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/2abb0995-08ee-4399-8bb8-b7ff33313315" />
+<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/926c4ab3-8eaa-4c2d-9fe2-dc134efcd4ed" />
