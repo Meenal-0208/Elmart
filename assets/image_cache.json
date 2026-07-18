@@ -1,0 +1,148 @@
+{
+  "Smartphones": [
+    "https://api.openverse.org/v1/images/3fb7823a-0e3d-48fb-abec-286f50c6e21a/thumb/",
+    "https://api.openverse.org/v1/images/af3a4e9b-485b-4650-90cf-a335c8dbf61e/thumb/",
+    "https://api.openverse.org/v1/images/f75e39c7-a047-44dc-b9b9-f1fe6fb411b2/thumb/",
+    "https://api.openverse.org/v1/images/a908f670-1888-4fe9-8c7b-7787db247d30/thumb/",
+    "https://api.openverse.org/v1/images/89a7263a-ae30-4970-993d-7a9fd5bcf998/thumb/",
+    "https://api.openverse.org/v1/images/eed62ea5-bd56-436d-9acf-1786a023268d/thumb/",
+    "https://api.openverse.org/v1/images/11cd1d83-581a-46ba-b047-3f04abd3dc74/thumb/",
+    "https://api.openverse.org/v1/images/eefb8150-aef0-4508-9ab2-22bab354e597/thumb/"
+  ],
+  "Laptops": [
+    "https://api.openverse.org/v1/images/5932b243-72be-4725-99be-a86d43a294ea/thumb/",
+    "https://api.openverse.org/v1/images/15cff3dd-958e-41bc-8988-9cd1ae36ee20/thumb/",
+    "https://api.openverse.org/v1/images/517123f1-5740-4422-893f-62e61f1bce3a/thumb/",
+    "https://api.openverse.org/v1/images/7a28edac-6e84-4067-a815-7300ab3848b9/thumb/",
+    "https://api.openverse.org/v1/images/fc7f5792-7b7a-4e49-9dd7-10227e4ad8d3/thumb/",
+    "https://api.openverse.org/v1/images/faa6d596-add3-4ba2-9c1d-9c53df6735c0/thumb/",
+    "https://api.openverse.org/v1/images/79d5fcca-5837-451d-85ba-14abed7c8859/thumb/",
+    "https://api.openverse.org/v1/images/0e736871-ac88-47a6-a2f1-dbdb3ea230dd/thumb/"
+  ],
+  "Tablets": [
+    "https://api.openverse.org/v1/images/4b8051ed-6ac7-46d2-b544-22093d836f5b/thumb/",
+    "https://api.openverse.org/v1/images/edbc60b2-a14c-463b-9c20-3126e200e1ee/thumb/",
+    "https://api.openverse.org/v1/images/be2d15cc-89b8-4041-bfb3-65ea646b2ef0/thumb/",
+    "https://api.openverse.org/v1/images/4730df8a-9f22-4e5a-9df1-62e48dd7d574/thumb/",
+    "https://api.openverse.org/v1/images/05833e5f-c37b-4654-823f-4ef173c2f32e/thumb/",
+    "https://api.openverse.org/v1/images/b9004455-e195-494e-9e41-05e3dc8531d9/thumb/",
+    "https://api.openverse.org/v1/images/f4c7edf8-1892-4909-99e3-77bcb7af2f70/thumb/",
+    "https://api.openverse.org/v1/images/40b77242-32b9-4a7b-9448-524423af0f2f/thumb/"
+  ],
+  "Smartwatches": [
+    "https://api.openverse.org/v1/images/22ff859b-0bdf-451e-a322-0e3336f8a705/thumb/",
+    "https://api.openverse.org/v1/images/a550484d-79bf-497b-afa7-1eaad4c1c8da/thumb/"
+  ],
+  "Headphones": [
+    "https://api.openverse.org/v1/images/15738182-16d4-4253-a94d-e8d8ecacd063/thumb/",
+    "https://api.openverse.org/v1/images/b46d1d20-f54f-4de6-af48-d3da9acd6d7b/thumb/",
+    "https://api.openverse.org/v1/images/7bc793ef-2a32-4872-b7d3-25c3a57fb38f/thumb/",
+    "https://api.openverse.org/v1/images/3b8d9b89-45e2-49a9-8565-f89e6ed56876/thumb/",
+    "https://api.openverse.org/v1/images/606108ed-3375-4f3e-a3d9-a73ad246fa92/thumb/",
+    "https://api.openverse.org/v1/images/8332e810-a038-4282-b34c-2443f8b44b90/thumb/",
+    "https://api.openverse.org/v1/images/f61ee9e1-ba78-4bdc-af15-1ed461a39419/thumb/",
+    "https://api.openverse.org/v1/images/257f814f-5701-4315-aa21-c46aaee0deec/thumb/"
+  ],
+  "Speakers": [
+    "https://api.openverse.org/v1/images/98592689-5cf3-4c6f-987e-0dbac740b340/thumb/",
+    "https://api.openverse.org/v1/images/3c7d25af-3bf5-45cb-9d3c-1fda16fb941f/thumb/",
+    "https://api.openverse.org/v1/images/b4d594cf-c672-4e56-ae15-1ba68d5d2fbd/thumb/",
+    "https://api.openverse.org/v1/images/393e3109-f21f-4d9b-872c-6006d3f858c7/thumb/",
+    "https://api.openverse.org/v1/images/29c9d63f-865d-478a-91a3-a994eb0805de/thumb/",
+    "https://api.openverse.org/v1/images/c3714e27-8fb9-40b3-be23-4357d8059a98/thumb/",
+    "https://api.openverse.org/v1/images/ed143d96-9000-43be-ba1b-4eff1e975a2c/thumb/",
+    "https://api.openverse.org/v1/images/b16fb9ed-1e90-4abd-a7e8-bd1eb5d71311/thumb/"
+  ],
+  "Televisions": [
+    "https://api.openverse.org/v1/images/cdc185d6-0fb3-4b02-b30a-2f11c9026cbd/thumb/",
+    "https://api.openverse.org/v1/images/d6f7035d-7dd0-4af7-9a8b-97ca4c74ba4c/thumb/",
+    "https://api.openverse.org/v1/images/5f81196d-f264-4903-8055-3f9b88ddb389/thumb/",
+    "https://api.openverse.org/v1/images/d0f8027b-0961-4511-b4db-77e6b356761b/thumb/",
+    "https://api.openverse.org/v1/images/97cd55ac-d7fc-49e5-8e41-13431a07f74e/thumb/",
+    "https://api.openverse.org/v1/images/08cdab1d-d03f-4d01-acb9-23ae19467a98/thumb/",
+    "https://api.openverse.org/v1/images/5c53e88f-b0ed-4329-8bc0-1968c9f932e6/thumb/",
+    "https://api.openverse.org/v1/images/8a43dc27-84a6-44d6-af33-2a65cfdf7d18/thumb/"
+  ],
+  "Cameras": [
+    "https://api.openverse.org/v1/images/439edb58-9ad3-4c70-b618-f47e306f6a10/thumb/",
+    "https://api.openverse.org/v1/images/e85e7e9c-7ba1-4558-a80e-61816c72753f/thumb/",
+    "https://api.openverse.org/v1/images/418cccc2-5357-41d1-aa9b-14e9e77f3f3f/thumb/",
+    "https://api.openverse.org/v1/images/6fc0afe4-928b-47e3-8570-fb84b2cc0d78/thumb/",
+    "https://api.openverse.org/v1/images/155d5b01-e8f9-486d-a9f5-289196746ec0/thumb/",
+    "https://api.openverse.org/v1/images/81351ec6-4947-4544-b9c2-6de93cddcce6/thumb/",
+    "https://api.openverse.org/v1/images/418bc920-e5c3-4716-83ea-0a5b043a010f/thumb/",
+    "https://api.openverse.org/v1/images/a67f4872-590a-4cf2-add6-2091ad238850/thumb/"
+  ],
+  "Gaming Consoles": [
+    "https://api.openverse.org/v1/images/d7350099-5323-4bac-8b89-5808d4755960/thumb/",
+    "https://api.openverse.org/v1/images/90bed108-ff7b-437a-bda2-89ceac597b8d/thumb/",
+    "https://api.openverse.org/v1/images/a4be72b5-ee18-4ccf-9e81-f86c39c2af75/thumb/",
+    "https://api.openverse.org/v1/images/2b03d0fd-074b-4c72-a0dd-65f0d6a71b9c/thumb/",
+    "https://api.openverse.org/v1/images/8bd80801-b3df-4637-8e15-08dba6a08614/thumb/",
+    "https://api.openverse.org/v1/images/f740b374-72a5-4358-b146-b9c5a6e3a67c/thumb/",
+    "https://api.openverse.org/v1/images/14c9b9b1-44f5-416a-b5ae-86b6399d3e1d/thumb/",
+    "https://api.openverse.org/v1/images/e55a142f-fbab-4feb-bfa3-a0e1ae51f1fe/thumb/"
+  ],
+  "Gaming Accessories": [
+    "https://api.openverse.org/v1/images/a014e9b4-659c-46fd-9a03-bf0f4e66053b/thumb/",
+    "https://api.openverse.org/v1/images/326caf88-0076-4259-98f3-b850da3daa1e/thumb/"
+  ],
+  "Refrigerators": [
+    "https://api.openverse.org/v1/images/0f206d9f-3747-42c6-8c46-924c27de7f9c/thumb/",
+    "https://api.openverse.org/v1/images/9ab2f735-93ba-4145-b5e6-283d3baf9c43/thumb/",
+    "https://api.openverse.org/v1/images/e2c558e1-82c7-4264-be87-72fc65536f34/thumb/",
+    "https://api.openverse.org/v1/images/76df450f-aea4-44f4-8d19-547f6f57a7a1/thumb/",
+    "https://api.openverse.org/v1/images/0203cc12-ef81-49ec-a2e8-6875a3244d4e/thumb/",
+    "https://api.openverse.org/v1/images/741ff376-6c22-4932-9a77-ea2e34bce483/thumb/",
+    "https://api.openverse.org/v1/images/686e9c2e-947c-478e-aabc-67487ff4fe40/thumb/",
+    "https://api.openverse.org/v1/images/7c942e5c-15d0-414b-9c67-9a159dc05e63/thumb/"
+  ],
+  "Washing Machines": [
+    "https://api.openverse.org/v1/images/1b494c31-d0d3-420e-99c6-f65b5e0834fd/thumb/",
+    "https://api.openverse.org/v1/images/d6dc1e12-b6a5-4a82-8abc-0be2337ad74a/thumb/",
+    "https://api.openverse.org/v1/images/dc44e395-6fed-41be-abfe-1328d300600a/thumb/",
+    "https://api.openverse.org/v1/images/d392b23d-abab-43bd-850b-719f1a8b4796/thumb/",
+    "https://api.openverse.org/v1/images/4346584e-da01-43b4-9eb4-d42aaf3f739b/thumb/",
+    "https://api.openverse.org/v1/images/0dfee1a0-e8cb-4335-a3a1-77ccaa80cd12/thumb/",
+    "https://api.openverse.org/v1/images/1fe95d36-d06c-4b4c-a8b6-5b976f3a913f/thumb/",
+    "https://api.openverse.org/v1/images/bb802e47-78c3-455a-9318-048db36f7fc0/thumb/"
+  ],
+  "Air Conditioners": [
+    "https://api.openverse.org/v1/images/b423f4d2-1c19-44c6-9527-74082df5a589/thumb/",
+    "https://api.openverse.org/v1/images/4f439049-e891-41f5-8924-6f4b65d3c734/thumb/",
+    "https://api.openverse.org/v1/images/7612f36d-4fd9-4928-9eac-607b8e002a61/thumb/",
+    "https://api.openverse.org/v1/images/a5e3820d-47fa-4211-bbde-dbe68d239ebf/thumb/",
+    "https://api.openverse.org/v1/images/ab165902-4618-4322-ac99-59de9a141806/thumb/",
+    "https://api.openverse.org/v1/images/51587a9f-b78f-46c5-ae9f-d33336b7bc1b/thumb/"
+  ],
+  "Microwave Ovens": [
+    "https://api.openverse.org/v1/images/3af3ec87-9e27-47c1-aa88-d4bd7af8a56a/thumb/",
+    "https://api.openverse.org/v1/images/d79b2e4e-4a7d-4cf1-90ed-9097241f8492/thumb/",
+    "https://api.openverse.org/v1/images/b9dddaa8-8180-4cb4-8fe2-5fadb98b1320/thumb/",
+    "https://api.openverse.org/v1/images/d0a878ab-0bda-47cb-8130-2d688a9f7c59/thumb/",
+    "https://api.openverse.org/v1/images/9bc48eca-b714-4152-a9f0-c43402dc4c5a/thumb/",
+    "https://api.openverse.org/v1/images/6d4e393e-b1c3-4577-99b8-c151fbe80af9/thumb/",
+    "https://api.openverse.org/v1/images/5f5aea79-0bab-439e-80ff-3bd3f13561c7/thumb/",
+    "https://api.openverse.org/v1/images/b0d5b249-79a8-4b64-b9ef-b29ba4b64e04/thumb/"
+  ],
+  "Kitchen Appliances": [
+    "https://api.openverse.org/v1/images/23e574e8-3cbf-4f1e-b39e-b9c5a1a4a962/thumb/"
+  ],
+  "Networking Devices": [
+    "https://api.openverse.org/v1/images/acce31d0-71fa-4295-ae0f-555c90f08d1d/thumb/",
+    "https://api.openverse.org/v1/images/b1fb030c-1857-4b13-b00b-450ab7d67cc6/thumb/",
+    "https://api.openverse.org/v1/images/84ec973b-907e-45f5-8041-df8606ff653c/thumb/",
+    "https://api.openverse.org/v1/images/c55b722a-31a4-456d-8e77-4ec112096b06/thumb/",
+    "https://api.openverse.org/v1/images/12b548e9-1cf5-464b-b3f0-47f23b43c2cb/thumb/",
+    "https://api.openverse.org/v1/images/26506fc1-b351-459e-985e-c4c7e066229e/thumb/",
+    "https://api.openverse.org/v1/images/c15feaef-463c-49ec-8c4e-e218d794f1e0/thumb/",
+    "https://api.openverse.org/v1/images/8f506850-b2c6-4044-a606-493c1bc4ca62/thumb/"
+  ],
+  "Wearable Fitness Devices": [
+    "https://api.openverse.org/v1/images/22ff859b-0bdf-451e-a322-0e3336f8a705/thumb/",
+    "https://api.openverse.org/v1/images/568609c3-cbe8-4407-bc62-ee68bd5b269f/thumb/",
+    "https://api.openverse.org/v1/images/0b78dc9f-1f80-4d28-bcaa-2ed1dc20b02d/thumb/",
+    "https://api.openverse.org/v1/images/1e3799a3-c14c-451f-879d-6b438895359b/thumb/",
+    "https://api.openverse.org/v1/images/f67a50f6-f35f-4e8c-b925-c367b16ac2e4/thumb/"
+  ]
+}
